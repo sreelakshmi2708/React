@@ -13,7 +13,7 @@ export default () => (
         <h3 className="back">HAPPY BIRTHDAY BOSS 🥳😎🥳!</h3>
         <p>Dear Boss,</p>
         <p>
-         Wishing you continued success, positivity, and happiness always. Stay chill as always. May all of your birthday wishes come true.
+         Wishing you continued success, positivity, and happiness always. Stay chill as always. May all of your wishes come true.
         </p>
          Support Team ❤️
       </div>
