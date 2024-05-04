@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sreelakshmi2708/React/static/css/main.9a301e81.css",
+    "main.js": "/sreelakshmi2708/React/static/js/main.0c965e5b.js",
+    "static/media/bday.jpg": "/sreelakshmi2708/React/static/media/bday.33cdc7295f426dc59bc3.jpg",
+    "index.html": "/sreelakshmi2708/React/index.html",
+    "main.9a301e81.css.map": "/sreelakshmi2708/React/static/css/main.9a301e81.css.map",
+    "main.0c965e5b.js.map": "/sreelakshmi2708/React/static/js/main.0c965e5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a301e81.css",
+    "static/js/main.0c965e5b.js"
+  ]
+}
